@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "0.0.1",
+  "dependencies": {
+    "authom": "~0.4.4",
+    "debug": "~0.7.0"
+  },
+  "devDependencies": {
+    "expect.js": "*",
+    "mocha": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/auth.git"
+  }
+}
