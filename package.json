@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/deedubs/auth.git"
+  },
+  "scripts": {
+    "test": "make test"
   }
 }
